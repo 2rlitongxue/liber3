@@ -21,6 +21,6 @@
 
   <strong>✨ Liber3网站介绍 ✨</strong>
 </h3>
-<p>faviconfaviconfaviconfaviconfavicon
+<p>
 Liber3 网站介绍
 Liber3是基于ENS和IPFS的去中心化电子书搜索引擎，提供EPUB、PDF、MOBI、AZW3等格式书籍，覆盖小说、教材、专业书等类别，用户无需注册即可免费下载。</p>
